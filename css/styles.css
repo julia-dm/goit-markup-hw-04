@@ -318,6 +318,7 @@ color: #434455;
     gap: 24px;
     margin-top: 8px;
 margin-left: 16px;
+ justify-content: center;
   
 }
 .team-soc-item {
@@ -337,9 +338,12 @@ margin-left: 16px;
 .team-soc-link:hover{
     background-color: #404BBF;
 }
+.team-soc-link:focus{
+    background-color: #404BBF;
+}
 
 .team-icon {
-    fill:#fff;
+    fill:#f4f4fd;
 }
 
 
